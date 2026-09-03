@@ -19,5 +19,16 @@
 ## [微信公众号：数学建模与人工智能](https://github.com/QInzhengk/the_milky_way)
 - 定时推送大模型、功率预测、工业AI干货  
 
+[AGV分拣工业场景Baseline](https://zhuanlan.zhihu.com/p/1970481275413444470)
 
-  
+[从“看见“到“预见“，从“建议“到“决策“——AI+工业的演进逻辑、行业图景与一线实践](https://zhuanlan.zhihu.com/p/2062901831999689797)
+
+[从“感知”到“决断”：测评百度伐谋产业决策智能体的端到端推理与行动机制](https://zhuanlan.zhihu.com/p/2044808175816291415)
+
+[第四篇：约束规划 CP 完全指南：从核心理论到求解器实战，附主流 CP 求解器对比](https://zhuanlan.zhihu.com/p/2044806826953281789)
+
+[第三篇：NVIDIA cuOpt Python API 详解：LP、QP、MILP 建模与求解，附核心术语名词解释](https://zhuanlan.zhihu.com/p/2020167687372846613)
+
+[第二篇：APS智能排产实战：OR-Tools与coptpy从入门到案例](https://zhuanlan.zhihu.com/p/2019730208643662191)
+
+[第一篇：APS智能排产理论核心与求解器选型指南](https://zhuanlan.zhihu.com/p/1999884283666515441)
